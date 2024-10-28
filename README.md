@@ -139,3 +139,15 @@ Please see our [Contributing guide](CONTRIBUTING.md) for details. Thank you for 
 
 * [__Laserwave__](themes/prism-laserwave.css) (originally by [Jared Jones](https://github.com/Jaredk3nt), adapted by [Simon Jespersen](https://github.com/simjes))<br />
 [![Laserwave](screenshots/prism-laserwave.png)](themes/prism-laserwave.css)
+
+* [__Catppuccin Latte__](themes/prism-catppuccin-latte.css) (originally by [Catppuccin](https://catppuccin.com/), adapted by [pluttan](https://github.com/pluttan))<br />
+[![Catppuccin Latte](screenshots/prism-catppuccin-latte.png)](themes/prism-catppuccin-latte.css)
+
+* [__Catppuccin Frappé__](themes/prism-catppuccin-frappe.css) (originally by [Catppuccin](https://catppuccin.com/), adapted by [pluttan](https://github.com/pluttan))<br />
+[![Catppuccin Latte](screenshots/prism-catppuccin-frappe.png)](themes/prism-catppuccin-frappe.css)
+
+* [__Catppuccin Macchiato__](themes/prism-catppuccin-macchiato.css) (originally by [Catppuccin](https://catppuccin.com/), adapted by [pluttan](https://github.com/pluttan))<br />
+[![Catppuccin Latte](screenshots/prism-catppuccin-macchiato.png)](themes/prism-catppuccin-macchiato.css)
+
+* [__Catppuccin Mocha__](themes/prism-catppuccin-mocha.css) (originally by [Catppuccin](https://catppuccin.com/), adapted by [pluttan](https://github.com/pluttan))<br />
+[![Catppuccin Latte](screenshots/prism-catppuccin-mocha.png)](themes/prism-catppuccin-mocha.css)
